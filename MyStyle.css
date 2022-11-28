@@ -7,6 +7,11 @@
     background-color: aliceblue;
 }
 article{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 10px double red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 10px solid red;
+}
+.myFooter{
+    background-color: brown;
+    height: 300px;
+    color: aqua;
 }
