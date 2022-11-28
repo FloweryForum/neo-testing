@@ -10,3 +10,8 @@ article{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 10px solid red;
 }
+.myFooter{
+    background-color: brown;
+    height: 300px;
+    color: aqua;
+}
